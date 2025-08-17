@@ -26,7 +26,8 @@ void main()
 	H=  (G/500)*100;
 	
 	
-		printf("Average of all Subject is %f\n",F);
+		printf("Total of all Subject is %f\n",G);
 		
 			printf("Percentage of all Subject is %f",H);
+
 }
